@@ -36,5 +36,5 @@ AceAI is a multi-threaded desktop chatbot built in Python. It features a hybrid 
 
 1. Clone the repository:
    '''bash
-   git clone [https://github.com/utsavgulia/AceAI-Chatbot.git](https://github.com/utsavgulia/AceAI-Chatbot.git)
+   git clone [https://github.com/utsavgulia/Ace-AI-Chatbot.git](https://github.com/utsavgulia/AceAI-Chatbot.git)
    cd AceAI-Chatbot
