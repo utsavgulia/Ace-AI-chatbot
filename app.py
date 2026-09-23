@@ -23,7 +23,7 @@ responses = {
 # ---------- Wikipedia Setup ----------
 
 wiki = wikipediaapi.Wikipedia(
-    user_agent="AceAI-Chatbot/1.0 (https://github.com/UtsavGulia/AceAI-Chatbot)",
+    user_agent="AceAI-Chatbot/1.0 (https://github.com/utsavgulia/AceAI-Chatbot)",
     language='en'
 )
 
